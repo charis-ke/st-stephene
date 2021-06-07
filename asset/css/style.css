@@ -1,0 +1,110 @@
+.carousel .bannerimage{
+    height:60vh; width:80%
+   }
+   .carousel h5{
+       color: hsl(0, 100%, 53%);
+       font-size: 24px;
+       text-transform: uppercase;
+   }
+   .carousel p{
+       color: rgb(3, 14, 63);
+       background-color: rgb(167, 27, 97);
+       font-size: 14px;
+       padding: 10px;
+       font-weight: bold;
+   }
+   .border{
+       background: darkblue;
+       height: 5px!important;
+       width: 40px;
+       margin: 10px 0px;
+   }
+   /* marketin section */
+  .marketingsection i{width: 100px;
+    height: 100px;
+    color: rgb(4, 4, 90);
+    border: 2px solid rgb(4, 4, 90);
+    padding: 20px;
+    border-radius: 40px;
+    transition: 0.2s linear;
+    font-size: 32px;
+ }
+ .marketingsection i:hover{border-radius: 50px;
+
+ }
+ .marketingsection p.read{
+     max-width: 50%;
+     text-align:center;
+
+ }
+ 
+ .MemberSection{
+     padding: 100px;
+     color: white;
+     background-color:rgb(167, 27, 97);
+
+ }
+ .MemberSection h2{font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+
+ }
+ .MemberSection .border{
+    background: white;
+    height: 7px!important;
+    width: 50px;
+    margin: 10px 2px;
+ }
+ .MemberSection p{
+     font-weight: 700;
+     font-size: 24px;
+     text-align: center;
+ }
+ .ourexcellence span{color: rgb(2, 2, 88);
+    text-decoration:underline ;
+    font-weight: 600;
+
+ }
+ .ourexcellence img{
+     box-shadow:10px 10px rgb(218, 86, 136);
+ }
+ .ourexcellence img:hover{ 
+     transform:scale(1.5);
+     transition: 0.7s linear;
+     opacity:.7;
+ }
+ footer{
+     color:rgb(8, 66, 255);
+     background-color: rgba(141, 13, 56, 0.959);
+ }
+ footer h5{
+     font-weight: 800 ;
+     text-transform: uppercase;
+
+ }
+ footer p span{
+     font-weight: 300;
+ }
+ footer ul.social li{
+     display: inline-block!important;
+     margin-right: 10 px;
+     width:50px;
+     height: 50px;
+     border: 1px solid rgb(104, 4, 42);
+     border-radius: 40%;
+      
+ }
+ footer ul li a i{
+     position: relative;
+     margin: 10px 10px;
+     color: rgb(42, 4, 131);
+ }
+footer ul li:hover{
+border-radius: 50%;
+margin-right: 10px;
+}
+f00ter ul.quicklinks li{
+  
+    color: blue;
+    text-decoration: none;
+}
