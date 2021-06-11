@@ -150,3 +150,7 @@ transition: 0.7s linear;
 box-shadow: 0 10px 0px rgb(59, 8, 8)
 
 }
+.clubs img{box-shadow: 10px 10px rgba(66, 66, 64, 0.959);
+height: 80px;
+width: 180px;
+}
